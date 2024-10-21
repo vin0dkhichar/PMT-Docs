@@ -4,7 +4,8 @@ This document provides step-by-step instructions to configure the [Proxy Means T
 
 ## Prerequisites
 
-The user must have a **Program Manager** role.
+- The user must have valid credentials to log in to Social Registry.
+- The user must have **Registrar** and **Administrator** roles.
 
 **Note:**  
 Refer to the [Create User and Assign Role](https://docs.openg2p.org/pbms/functionality/administration/role-based-access-control/user-guides/assign-roles-to-users) user guide to learn how to assign a role to a user.
