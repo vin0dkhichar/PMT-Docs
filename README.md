@@ -1,6 +1,6 @@
 # Configure Proxy Means Test
 
-This document provides step-by-step instructions to enable and configure the Proxy Means Test (PMT).
+This document provides step-by-step instructions to enable and configure the [Proxy Means Test (PMT)](https://docs.openg2p.org/pbms/functionality/eligibility/proxy-means-test).
 
 ## Prerequisites
 
