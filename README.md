@@ -1,6 +1,6 @@
 # Proxy Means Test
 
-This document provides step-by-step instructions to configure the [Proxy Means Test (PMT)](https://docs.openg2p.org/pbms/functionality/eligibility/proxy-means-test) for Social Registry.
+Proxy Means Test (PMT) is a method widely used by governments and international organizations to estimate income or consumption levels of households, particularly those in low and middle-income countries. PMT serves as a valuable tool for targeting social programs and subsidies effectively, ensuring that limited resources are allocated to those who need them the most. PMT is based on the principle that certain household characteristics, known as proxies, correlate with income and standard of living. These proxies may include household composition, housing quality, asset ownership, access to basic services, and other observable characteristics.
 
 ## Prerequisites
 
