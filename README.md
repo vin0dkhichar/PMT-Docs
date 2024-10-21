@@ -4,7 +4,7 @@ This document provides step-by-step instructions to enable and configure the Pro
 
 ## Prerequisites
 
-- The user must have a **Program Manager** role.
+The user must have a **Program Manager** role.
 
 **Note:**
 Refer to the *Create User and Assign Role* user guide to learn how to assign a role to a user.
