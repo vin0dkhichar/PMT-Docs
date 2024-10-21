@@ -1,4 +1,4 @@
-# Configure Proxy Means Test For Social Registry
+# Proxy Means Test
 
 This document provides step-by-step instructions to configure the [Proxy Means Test (PMT)](https://docs.openg2p.org/pbms/functionality/eligibility/proxy-means-test) for Social Registry.
 
