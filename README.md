@@ -11,8 +11,8 @@ Refer to the [Create User and Assign Role](https://docs.openg2p.org/pbms/functio
 
 ## Procedure
 
-1: Click the main menu icon ![image](https://github.com/user-attachments/assets/5f2a8223-5f1f-4988-a4c9-54b2ae1bf127) and select Social Registry.
+1: Click the main menu icon ![](https://github.com/user-attachments/assets/5f2a8223-5f1f-4988-a4c9-54b2ae1bf127) and select Social Registry.
 
-![image](https://github.com/user-attachments/assets/0b96d735-b014-4832-96bf-c7b4e5390212)
+![](https://github.com/user-attachments/assets/0b96d735-b014-4832-96bf-c7b4e5390212)
 
 Social Registry screen is displayed.
