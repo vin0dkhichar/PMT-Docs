@@ -31,4 +31,4 @@ The need for a Proxy Means Test (PMT) arises from the challenges of accurately i
    - The design ensures that when a field used in PMT is deleted from the `ir.model.fields`, it is also removed from the PMT configuration. This avoids orphaned records in the `g2p.proxy_means_test_params` table.
 
 ## Source Code
-[](https://github.com/OpenG2P/openg2p-program/tree/17.0-develop/g2p_proxy_means_test)
+[https://github.com/OpenG2P/openg2p-program/tree/17.0-develop/g2p_proxy_means_test](https://github.com/OpenG2P/openg2p-program/tree/17.0-develop/g2p_proxy_means_test)
