@@ -32,3 +32,6 @@ The need for a Proxy Means Test (PMT) arises from the challenges of accurately i
 
 ## Source Code
 [https://github.com/OpenG2P/openg2p-program/tree/17.0-develop/g2p_proxy_means_test](https://github.com/OpenG2P/openg2p-program/tree/17.0-develop/g2p_proxy_means_test)
+
+## Related User Guides
+[PMT](https://docs.openg2p.org/pbms/functionality/eligibility/proxy-means-test), [Configure Proxy Means Test](https://docs.openg2p.org/pbms/functionality/eligibility/user-guides/configure-proxy-means-test)
