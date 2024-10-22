@@ -1,20 +1,15 @@
 # Proxy Means Test
 
-Proxy Means Test (PMT) is a method widely used by governments and international organizations to estimate income or consumption levels of households, particularly those in low and middle-income countries. PMT serves as a valuable tool for targeting social programs and subsidies effectively, ensuring that limited resources are allocated to those who need them the most. PMT is based on the principle that certain household characteristics, known as proxies, correlate with income and standard of living. These proxies may include household composition, housing quality, asset ownership, access to basic services, and other observable characteristics.
+Proxy Means Test (PMT) is a method widely used by governments and international organizations to estimate income or consumption levels of households, particularly those in low and middle-income countries. PMT is a valuable tool for effectively targeting social programs and subsidies, ensuring that limited resources are allocated to those who need them the most. PMT is based on the principle that certain household characteristics, known as proxies, correlate with income and standard of living. These proxies may include household composition, housing quality, asset ownership, access to basic services, and other observable characteristics.
 
-## Prerequisites
+## Why we need PMT?
 
-- The user must have valid credentials to log in to Social Registry.
-- The user must have **Registrar** and **Administrator** roles.
+The need for a Proxy Means Test (PMT) arises from the challenges of accurately identifying and targeting poor households for social welfare programs. Traditional means tests, which rely on reported income, often suffer from inaccuracies due to misreporting or informal employment. PMT addresses these challenges using observable household characteristics, such as assets, education level, housing conditions, and family size, to estimate a household's economic status.
 
-**Note:**  
-Refer to the [Create User and Assign Role](https://docs.openg2p.org/pbms/functionality/administration/role-based-access-control/user-guides/assign-roles-to-users) user guide to learn how to assign a role to a user.
-
-## Procedure
-
-1. Login to **Social Registry**.
-2. Click the main menu icon ![](https://github.com/user-attachments/assets/5f2a8223-5f1f-4988-a4c9-54b2ae1bf127) and select Social Registry.
-
-![](https://github.com/user-attachments/assets/a39aba33-2a7d-42d7-9574-77396738caaa)
-
-Social Registry screen is displayed.
+## Feature and functionality
+|--------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Individual Registry Deduplication**            | Identifies and manages individual duplicate records to ensure accuracy and granularity in the deduplication process.                                                |
+| **Kind-Based Deduplication for Group Registrants** | - Detects groups with the same kind and removes duplicates based on ID.<br> - Identifies group members with the same kind and removes duplicate members based on ID. |
+| **Separate Registry Groups Deduplication**       | Enables precise duplicate identification and management within discrete categories of each registry group.                                                          |
+| **Deduplicate Button**                           | A button on the Social Registry screen that allows users to easily initiate the deduplication process.                                                               |
+| **Automated Record Identification**              | Upon clicking the Deduplicate button, the system automatically identifies duplicates and displays the count, saving them to a separate duplicate registry.           |
