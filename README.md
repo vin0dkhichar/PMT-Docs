@@ -1,10 +1,8 @@
-# Proxy Means Test
+# G2P: Proxy Means Test
 
-Proxy Means Test (PMT) is a method widely used by governments and international organizations to estimate income or consumption levels of households, particularly those in low and middle-income countries. PMT is a valuable tool for effectively targeting social programs and subsidies, ensuring that limited resources are allocated to those who need them the most. PMT is based on the principle that certain household characteristics, known as proxies, correlate with income and standard of living. These proxies may include household composition, housing quality, asset ownership, access to basic services, and other observable characteristics.
+## g2p_proxy_means_test
 
-## Why do we need PMT?
-
-The need for a Proxy Means Test (PMT) arises from the challenges of accurately identifying and targeting poor households for social welfare programs. Traditional means tests, which rely on reported income, often suffer from inaccuracies due to misreporting or informal employment. PMT addresses these challenges using observable household characteristics, such as assets, education level, housing conditions, and family size, to estimate a household's economic status.
+`g2p_proxy_means_test` is a module used within the OpenG2P to effectively identify and manage social welfare beneficiaries. By employing proxy means testing, it utilizes observable individual and household characteristics—such as assets, education, and living conditions—to estimate economic status, circumventing the limitations of self-reported income. This approach enhances the precision of targeting by ensuring that benefits are directed to those who truly need them while minimizing errors of inclusion and exclusion. With its robust design, `g2p_proxy_means_test` integrates seamlessly into systems, improving the overall efficiency of social protection programs.
 
 ## Feature and functionality
 
