@@ -8,8 +8,8 @@ The need for a Proxy Means Test (PMT) arises from the challenges of accurately i
 
 ## Feature and functionality
 
-| PMT method | PMT process  |
+| **PMT method** | **PMT process**  |
 | ------- | --- |
-| PMT Calculation | The module supports Proxy Means Testing by calculating a score for each program registrant based on various parameters (`pmt_field` and `pmt_weightage`).<br/> Fields related to PMT (`pmt_score` and `latest_pmt_score`) are computed and stored, which can be referenced later for decision-making within the program. |
-| Managing Fields and Deletion | The `IrModelFields` class (`ir.model.fields` in Odoo) extends the behavior of the default unlink (deletion) method to remove associated PMT fields from the proxy means test parameters when a field is deleted from the system. |
-| Proxy Means Test Parameters | The `ProxyMeanTestParams` class manages proxy means test parameters, including selecting fields from registrant information to use in calculating PMT scores and assigning weightage to those fields for scoring purposes. |
+| **PMT Calculation** | The module supports Proxy Means Testing by calculating a score for each program registrant based on various parameters (`pmt_field` and `pmt_weightage`).<br/> Fields related to PMT (`pmt_score` and `latest_pmt_score`) are computed and stored, which can be referenced later for decision-making within the program. |
+| **Managing Fields and Deletion** | The `IrModelFields` class (`ir.model.fields` in Odoo) extends the behavior of the default unlink (deletion) method to remove associated PMT fields from the proxy means test parameters when a field is deleted from the system. |
+| **Proxy Means Test Parameters** | The `ProxyMeanTestParams` class manages proxy means test parameters, including selecting fields from registrant information to use in calculating PMT scores and assigning weightage to those fields for scoring purposes. |
