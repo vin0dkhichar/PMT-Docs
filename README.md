@@ -2,7 +2,7 @@
 
 ## g2p_proxy_means_test
 
-`g2p_proxy_means_test` is a module used within the OpenG2P to effectively identify and manage social welfare beneficiaries. By employing proxy means testing, it utilizes observable individual and household characteristics—such as assets, education, and living conditions—to estimate economic status, circumventing the limitations of self-reported income. This approach enhances the precision of targeting by ensuring that benefits are directed to those who truly need them while minimizing errors of inclusion and exclusion. With its robust design, `g2p_proxy_means_test` integrates seamlessly into systems, improving the overall efficiency of social protection programs.
+`g2p_proxy_means_test` is a module used within the OpenG2P to effectively identify and manage social welfare beneficiaries. By employing proxy means testing, it utilizes observable individual and household characteristics-such as assets, education, and living conditions-to estimate economic status, circumventing the limitations of self-reported income. This approach enhances the precision of targeting by ensuring that benefits are directed to those who truly need them while minimizing errors of inclusion and exclusion. With its robust design, `g2p_proxy_means_test` integrates seamlessly into systems, improving the overall efficiency of social protection programs.
 
 ## Feature and functionality
 
